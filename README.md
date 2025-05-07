@@ -6,17 +6,16 @@ Soy estudiante de **Ingeniería en Ciencia de Datos y Matemáticas** en el Tecno
 
 ## 🧠 Sobre mí
 
-- 🎓 Actualmente estudiando en el **ITESM**, con un GPA de 89/100.
+- 🎓 Actualmente estudiando en el **ITESM**, con un GPA de 90/100.
 - 🧩 Me gusta resolver problemas con **modelos matemáticos** y técnicas de **machine learning**.
 - 🔍 Interesado en análisis de datos, visión por computadora y automatización de procesos.
-- 🧑‍🏫 Trabajo en el campus apoyando la gestión académica en servicios sociales y plataformas como **Canvas**.
-
+- 🧑‍🏫 Trabajo en Interius apoyando en la visualización de los resultados digitales en marketing.
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes:** Python, C++, SQL, R, HTML/CSS  
-- **Librerías y frameworks:** Pandas, Scikit-learn, TensorFlow, OpenCV, Tkinter, PuLP, GAMS  
+- **Lenguajes:** Python,, C++, SQL, R, HTML/CSS  
+- **Librerías y frameworks:** Pandas, Scikit-learn, TensorFlow, OpenCV, Tkinter, PuLP, GAMS, Streamlit  
 - **Herramientas:** Git, GitHub, Bootstrap, smtplib  
 - **Idiomas:** Español (nativo), Inglés (C1)
 
@@ -53,5 +52,29 @@ Soy estudiante de **Ingeniería en Ciencia de Datos y Matemáticas** en el Tecno
 [![Email](https://img.shields.io/badge/Email-ce2004sg@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:ce2004sg@gmail.com)
 
 ---
+## 📂 Portafolio de Proyectos Representativos
 
+### 🔧 Reto Optimización
+Se nos dio la oportunidad de hacer un *scheduling* para una fábrica de salsas, considerando la maquinaria necesaria, las herramientas y la demanda. Todo con el objetivo de mejorar los tiempos y cumplir con todas las demandas.  
+🔗 [Repositorio en GitHub](https://github.com/rpribau/reto-optimizacion)
+
+---
+
+### 📈 Reto Datathon
+Durante este reto se nos dio la tarea de predecir las ventas de productos en los aviones, para asegurarnos de que los vuelos contaran con el inventario adecuado. También se buscó optimizar la estrategia de reposición y abastecimiento.  
+🔗 [Repositorio en GitHub](https://github.com/guajardogit/Datathon)
+
+---
+
+### 🏀 Hoop Hunch - Predicción NBA
+Desarrollamos un modelo para predecir los resultados de partidos de la NBA, considerando el comportamiento y desempeño de los jugadores. Alcanzamos una precisión del 70% en la predicción de partidos de la temporada.  
+🔗 [Repositorio en GitHub](https://github.com/guajardogit/NBA_data)
+
+---
+
+### 🎮 Mario Kart Deluxe - Análisis Topológico
+Se utilizó análisis topológico para definir la mejor combinación entre ruedas, cuerpo, alas y personaje, optimizando la experiencia de juego en Mario Kart Deluxe.  
+🔗 [Repositorio en GitHub](https://github.com/guajardogit/MarioKart)
+
+--
 > "Aprender no es llenar un balde, sino encender un fuego." 🔥
